@@ -71,7 +71,7 @@ com.workflow
 
 ```bash
 git clone https://github.com/dhatri279/FlowOrchestrator.git
-cd task-workflow-engine
+cd FlowOrchestrator
 ```
 
 ### 2. Compile the project

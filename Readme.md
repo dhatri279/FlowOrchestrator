@@ -1,6 +1,6 @@
 # FlowOrchestrator
 
-A headless, terminal-based Task and Workflow Management System written in
+A headless, terminal-based FlowOrchestrator Management System written in
 pure Java 17. The engine lets a user create, prioritize, track, search, and
 persist tasks entirely from the command line — no GUI, no external services,
 no database server.
@@ -11,7 +11,7 @@ Repository: `https://github.com/dhatri279/FlowOrchestrator`
 
 ## Project Overview
 
-Task & Workflow Engine models the everyday problem of managing a personal or
+FlowOrchestrator Engine models the everyday problem of managing a personal or
 team backlog: work items arrive with varying urgency, need to move through a
 lifecycle (`PENDING` → `IN_PROGRESS` → `COMPLETED`/`CANCELLED`), and must
 survive between sessions. The application demonstrates how a small set of
